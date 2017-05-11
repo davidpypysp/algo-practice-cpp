@@ -29,7 +29,12 @@
     <ClInclude Include="src\cc150\c1_5.h" />
     <ClInclude Include="src\cc150\c1_6.h" />
     <ClInclude Include="src\cc150\c1_7.h" />
+    <ClInclude Include="src\cc150\c2_1.h" />
+    <ClInclude Include="src\cc150\c2_2.h" />
+    <ClInclude Include="src\cc150\c2_3.h" />
+    <ClInclude Include="src\cc150\c2_4.h" />
     <ClInclude Include="src\leetcode\p1.h" />
+    <ClInclude Include="src\util\list_node.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{E231EC35-CA2E-4835-B975-C11EEABCDD6A}</ProjectGuid>

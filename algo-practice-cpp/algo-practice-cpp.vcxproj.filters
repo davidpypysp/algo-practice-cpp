@@ -44,5 +44,20 @@
     <ClInclude Include="src\cc150\c1_7.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\cc150\c2_1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\util\list_node.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\cc150\c2_2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\cc150\c2_3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\cc150\c2_4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
